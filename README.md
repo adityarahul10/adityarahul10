@@ -82,7 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityarahul10&show_icons=true&locale=en&layout=compact" alt="adityarahul10" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityarahul10&show_icons=true&locale=en" alt="adityarahul10" /></p>
 
