@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/15465/15465638.png" height="40" alt="javascript logo"  />
